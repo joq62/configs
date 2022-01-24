@@ -1,8 +1,4 @@
-%%
-%% Information about a specific deployment
-%
-%%------------------------ applications  ----------------------
-{name,"divi_1"}.
+{name,"divi"}.
 {vsn,"1.0.0"}.
-{pod_specs,[{"mydivi","1.0.0"}]}.
-{affinity,[]}.
+{template,[{mydivi,"1.0.0","https://github.com/joq62/mydivi.git"}]}.
+{affinity,[]}. %[]=all,
