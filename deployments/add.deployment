@@ -1,0 +1,4 @@
+{name,"add"}.
+{vsn,"1.0.0"}.
+{template,[{myadd,"1.0.0","https://github.com/joq62/myadd.git"}]}.
+{affinity,[]}. %[]=all,

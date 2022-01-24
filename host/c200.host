@@ -1,0 +1,23 @@
+%%
+%% Host Information 
+%
+%%------------------------ applications to init start ----------------------
+{id,{"c200","host"}}.
+{hostname,"c200"}.
+{nodename,"host"}	
+{node,'host@c200'}.
+{ip,"192.168.0.200"}.
+{ssh_port,22}.
+{uid,"joq62"}.
+{pwd,"festum01"}.
+
+{root_dir,"host_c200.vm"}.
+
+{type,auto}.
+{erl_cmd,"/snap/erlang/current/usr/bin/erl}.
+{cookie,"cookie_test"}.
+{pa_init,"-pa host_c200.logs -pa host_c200.vm/configs"}.
+
+{log_dir,"host_c200.logs"}.
+
+{capabilities,[]}.
