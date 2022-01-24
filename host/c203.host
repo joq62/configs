@@ -14,7 +14,7 @@
 {root_dir,"host_c203.vm"}.
 
 {type,no_auto}.
-{erl_cmd,"/snap/erlang/current/usr/bin/erl}.
+{erl_cmd,"/snap/erlang/current/usr/bin/erl "}.
 {cookie,"cookie_test"}.
 {pa_init,"-pa host_c203.logs -pa host_c203.vm/configs"}.
 

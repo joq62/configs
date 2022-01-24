@@ -14,7 +14,7 @@
 {root_dir,"host_c201.vm"}.
 
 {type,auto}.
-{erl_cmd,"/snap/erlang/current/usr/bin/erl}.
+{erl_cmd,"erl "}.
 {cookie,"cookie_test"}.
 {pa_init,"-pa host_c201.logs -pa host_c201.vm/configs"}.
 {log_dir,"host_c201.logs"}.
