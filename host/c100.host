@@ -4,7 +4,7 @@
 %%------------------------ applications to init start ----------------------
 {id,{"c100","host"}}.
 {hostname,"c100"}.
-{nodename,"host"}	
+{nodename,"host"}.	
 {node,'host@c100'}.
 {ip,"192.168.0.100"}.
 {ssh_port,22}.
