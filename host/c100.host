@@ -16,8 +16,9 @@
 {type,auto}.
 {host_app,{host,"1.0.0","https://github.com/joq62/host.git"}}.
 {erl_cmd,"erl "}.
+{app_env,""}.
 {cookie,"cookie_test"}.
-{pa_init,"-pa host_c100.logs -pa host_c100.vm/configs"}.
+{pa_args,"-pa host_c100.logs -pa host_c100.vm/configs"}.
 
 {log_dir,"host_c100.logs"}.
 
