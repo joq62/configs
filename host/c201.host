@@ -14,6 +14,7 @@
 {root_dir,"host_c201.vm"}.
 
 {type,auto}.
+{host_app,{host,"1.0.0","https://github.com/joq62/host.git"}}.
 {erl_cmd,"erl "}.
 {cookie,"cookie_test"}.
 {pa_init,"-pa host_c201.logs -pa host_c201.vm/configs"}.
