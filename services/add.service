@@ -1,0 +1,5 @@
+{name,"add"}.
+{vsn,"1.0.0"}.
+{template,[{myadd,"1.0.0"}]}.
+{affinity,[]}. %[]=all,
+{required_needs,[]}. %% {hw,hw_spec}|{port,port_nr}
